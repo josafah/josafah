@@ -6,7 +6,7 @@
 <!-- - 👨‍💻 All of my projects are available at [https://josafa.com.br](https://josafa.com.br)
 - 📝 I regularly write articles on [https://josafa.com.br/blog](https://josafa.com.br/blog) -->
 
-### Recent Blog Posts
+### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Prepare-se para os testes do Linkedin](https://josafa.com.br/blog/prepare-se-para-o-teste-de-competencias-do-linkedin/)
 - [Concurso SERPRO 2023: Edital traz 602 vagas](https://josafa.com.br/blog/saiu-o-edital-do-concurso-SERPRO-2023/)
@@ -15,9 +15,9 @@
 - [Por qual linguagem de programação começar.](https://josafa.com.br/blog/qual-linguagem-de-programacao-comecar-a-aprender/)
 <!-- BLOG-POST-LIST:END -->
 
-### Recent YouTube Videos
-<!-- YOTUTUBE-LIST:START -->
-<!-- YOUTUBE-LIST:END -->
+### Latest YouTube Videos
+<!-- YOTUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ---
 
